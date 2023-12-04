@@ -1,7 +1,7 @@
-const FRUITS_ = [
+const FRUITS = [
   {
     name: "00_cherry",
-    radius: 46 / 2,
+    radius: 47 / 2,
   },
   {
     name: "01_strawberry",
@@ -25,7 +25,7 @@ const FRUITS_ = [
   },
   {
     name: "06_pear",
-    radius: 142 / 2,
+    radius: 148 / 2,
   },
   {
     name: "07_peach",
